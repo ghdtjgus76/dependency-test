@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsup ./test.tsx"
+    "build": "rm -rf dist && tsup ./test.tsx --config ./tsup.config.ts"
   },
   "keywords": [],
   "author": "",

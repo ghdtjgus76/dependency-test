@@ -1,9 +1,0 @@
-{
-  "name": "dependency",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "@tanstack/react-query": "^5.49.2"
-  }
-}
